@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VadimKnyaz
 - 👀 I’m interested in  qa 
 - 🌱 I’m currently learning Vadim KSENDZOV    
-- 💞️ I’m looking to работу  тестировщиком  , QA Инженером 
+
 - 📫 How to reach me  https://t.me/Vadim059
 
 <!---
