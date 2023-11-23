@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vadim
-- 👀 I’m interested in  qa 
-- 🌱 I’m currently learning Vadim KSENDZOV    
+- 👀 I’m interested in  java
+- 🌱 I’m currently learning Alishev Tregulov    
 
 - 📫 How to reach me  https://t.me/Vadim059
 
